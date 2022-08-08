@@ -1,0 +1,361 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.goa-card-container {
+    padding: 24px;
+}
+
+.my-main-container {
+    background-color: violet;
+    text-align: center;
+}
+
+.my-dp {
+    background-image: linear-gradient(to right, violet, white, pink, yellow);
+    text-align: center;
+    margin: 10px;
+}
+
+.my-dpp {
+    background-color: lightblue;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: underline;
+    color: #323f4b;
+    width: 100%;
+}
+
+.goa-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.goa-card-description {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 24px;
+
+}
+
+.goa-card-image {
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border-style: dashed;
+
+}
+
+.goa-video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+.my-image {
+    height: 40px;
+    width: 50px;
+    border-radius: 18px;
+    border-style: solid;
+}
+
+.born {
+    text-decoration: underline;
+    color: blue;
+    text-decoration-color: violet;
+
+}
+
+.my-fv-image {
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+
+}
+
+.bh-container {
+    background-image: linear-gradient(to right, orange, #ffffff, green);
+}
+
+.nav-text {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+    color: orange;
+    background-color: white;
+}
+
+.indian-flag {
+    width: 10%;
+    margin-right: 10px;
+    margin-top: 12px;
+
+
+}
+
+
+.trending-blogs-section-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.trending-blogs-card-title {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.trending-blogs-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.trending-blogs-card-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.view-all-button {
+    color: #ffffff;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 173px;
+    height: 56px;
+    border-width: 0;
+    border-radius: 4px;
+}
+
+
+.testimonials-section {
+    background-color: pink;
+    padding: 40px;
+}
+
+.testimonials-section-sub-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.testimonials-section-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.testimonials-card {
+    background-color: #323f4b;
+    padding: 20px;
+}
+
+.testimonials-card-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.testimonials-card-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.person-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.slide-heading {
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 26px;
+    background-image: linear-gradient(to right, orange, white, green);
+}
+
+.book-store-home-page {
+    background-color: orange;
+    background-size: cover;
+
+    padding: 24px;
+    border-radius: 20px;
+}
+
+.home-page-heading {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 28px;
+}
+
+.popular-book-container {
+    background-color: #e6f6ff;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.popular-book-image {
+    width: 136px;
+    height: 160px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.popular-book-short-details-container {
+    padding: 16px;
+}
+
+.popular-book-heading {
+    color: #183b56;
+    font-family: "Bree serif";
+    font-size: 16px;
+}
+
+.popular-book-text {
+    color: #06070d;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+
+.popular-book-author {
+    color: #183b56;
+    font-family: "Bree serif";
+    font-size: 10px;
+}
+
+.recommended-books-heading {
+    color: #ffffff;
+    font-family: "Bree serif";
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.recommended-book-container {
+    margin-bottom: 10px;
+
+}
+
+.recommended-book-image {
+    width: 80px;
+    height: 125px;
+}
+
+.recommended-book-short-details-container {
+    margin-left: 10px;
+}
+
+.recommended-book-name {
+    color: #ffffff;
+    font-family: "Bree serif";
+    font-size: 16px;
+}
+
+.recommended-book-description {
+    color: #e4e7eb;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+
+.book-details-page {
+    background-color: #1b1b1b;
+    padding: 24px;
+    text-align: center;
+
+}
+
+.book-details-page-image {
+    width: 190px;
+    height: 260px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.book-name {
+    color: #ffffff;
+    font-family: "Bree serig";
+    font-size: 28px;
+}
+
+.author {
+    color: #9aa5b1;
+    font-family: "Bree serif";
+    font-size: 12px;
+}
+
+.book-description {
+    color: #e4e7eb;
+    text-align: left;
+    font-family: "Bree serif";
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.bg-container {
+    background-color: #0d2436;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.logo-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.icon {
+    color: #5a7184;
+    background-color: white;
+    border-radius: 40px;
+    padding: 12px;
+    margin-right: 8px;
+}
+
+.paragraph {
+    color: #5a7184;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.get-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.list {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 26px;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.break-line {
+    background-color: #5a7184;
+    border-width: 10px;
+
+}
